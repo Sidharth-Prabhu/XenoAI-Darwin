@@ -1,0 +1,182 @@
+[
+  {
+    "prompt": "An app for managing attendance",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-23T01:48:03.706000"
+  },
+  {
+    "prompt": "a simple to do list",
+    "username": "doitthetommowaytpwk@gmail.com",
+    "timestamp": "2025-03-27T09:03:07.967764"
+  },
+  {
+    "prompt": "create an app that is used to store employee details.\r\nit must contain:\r\nname\r\nnumber\r\naddress",
+    "username": "doitthetommowaytpwk@gmail.com",
+    "timestamp": "2025-03-27T09:05:38.608522"
+  },
+  {
+    "prompt": "create an app that is used to store employee details.\r\nit must contain:\r\nname\r\nnumber\r\naddress",
+    "username": "doitthetommowaytpwk@gmail.com",
+    "timestamp": "2025-03-27T09:05:45.651539"
+  },
+  {
+    "prompt": "An app that should have a login and signup option and store the user data in SharedPreferences to retrieve it every time it opens.",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-27T18:17:03.777703"
+  },
+  {
+    "prompt": "An app that should have a login and signup option and store the user data in SharedPreferences to retrieve it every time it opens.",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-27T18:17:16.907244"
+  },
+  {
+    "prompt": "An app that should close by itself after 10 seconds of opening",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-27T18:24:14.491861"
+  },
+  {
+    "prompt": "An app that should close by itself after 10 seconds of opening",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-27T18:24:19.717489"
+  },
+  {
+    "prompt": "Generate a simple stopwatch app with dark mode feature",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-27T18:25:53.833921"
+  },
+  {
+    "prompt": "Generate a simple stopwatch app with dark mode feature",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-27T18:26:01.610107"
+  },
+  {
+    "prompt": "An app to remind me to take a break after every 1 hour of sitting idle.",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-27T18:35:29.664420"
+  },
+  {
+    "prompt": "An app to remind me to take a break after every 1 hour of sitting idle.",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-27T18:35:36.939308"
+  },
+  {
+    "prompt": "A simple clock app",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-28T11:44:45.883522"
+  },
+  {
+    "prompt": "A simple clock app",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-28T11:44:51.400673"
+  },
+  {
+    "prompt": "calendar",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-28T11:46:40.269795"
+  },
+  {
+    "prompt": "calendar",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-03-28T11:46:46.327356"
+  },
+  {
+    "prompt": "create an app that stores employee details including their name, age, number and address",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T09:21:30.533871"
+  },
+  {
+    "prompt": "create an app that stores employee details including their name, age, number and address",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T09:21:39.342010"
+  },
+  {
+    "prompt": "Generate an app that should say Hello in English, French and Tamil in fixed time interval",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T12:49:31.296358"
+  },
+  {
+    "prompt": "Generate an app that should say Hello in English, French and Tamil in fixed time interval",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T12:49:38.603577"
+  },
+  {
+    "prompt": "develop a snake game",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T13:00:45.828178"
+  },
+  {
+    "prompt": "develop a snake game",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T13:00:52.340548"
+  },
+  {
+    "prompt": "develop a  functional snake game",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T13:05:29.839328"
+  },
+  {
+    "prompt": "develop a  functional snake game",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T13:05:35.887025"
+  },
+  {
+    "prompt": "I want a simple todo list app",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T23:56:25.768277"
+  },
+  {
+    "prompt": "I want a simple todo list app",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T23:56:34.072441"
+  },
+  {
+    "prompt": "I want a simple todo list app",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T23:57:06.349652"
+  },
+  {
+    "prompt": "I want a simple todo list app",
+    "username": "SidharthPrabhu",
+    "timestamp": "2025-04-01T23:57:12.200639"
+  },
+  {
+    "prompt": "devlop a app to store employee details such as name and employee id and store them in SharedPreferences, display them as a list inside the app.",
+    "username": "shylendharm",
+    "timestamp": "2025-04-02T09:12:55.880376"
+  },
+  {
+    "prompt": "devlop a app to store employee details such as name and employee id and store them in SharedPreferences, display them as a list inside the app.",
+    "username": "shylendharm",
+    "timestamp": "2025-04-02T09:13:33.303118"
+  },
+  {
+    "prompt": "devlop a app to store employee details such as name and employee id and store them in SharedPreferences, display them as a list inside the app.",
+    "username": "shylendharm",
+    "timestamp": "2025-04-02T09:13:36.604570"
+  },
+  {
+    "prompt": "devlop a app to store employee details such as name and employee id and store them in SharedPreferences, display them as a list inside the app.",
+    "username": "shylendharm",
+    "timestamp": "2025-04-02T09:13:41.651781"
+  },
+  {
+    "prompt": "devlop a app to store employee details such as name and employee id and display them as a list inside the app.",
+    "username": "shylendharm",
+    "timestamp": "2025-04-02T09:14:25.012731"
+  },
+  {
+    "prompt": "devlop a app to store employee details such as name and employee id and display them as a list inside the app.",
+    "username": "shylendharm",
+    "timestamp": "2025-04-02T09:14:31.662044"
+  },
+  {
+    "prompt": "develop an app to store employee details such as name and employee id and display them as a list inside the app. Implement a functional dark mode toggle too.",
+    "username": "shylendharm",
+    "timestamp": "2025-04-02T09:15:57.655632"
+  },
+  {
+    "prompt": "develop an app to store employee details such as name and employee id and display them as a list inside the app. Implement a functional dark mode toggle too.",
+    "username": "shylendharm",
+    "timestamp": "2025-04-02T09:16:11.790488"
+  }
+]
