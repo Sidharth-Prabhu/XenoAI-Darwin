@@ -10,13 +10,11 @@ from PIL import Image
 import platform
 
 app = Flask(__name__)
-app.secret_key = 'your-secret-key-here'  # Replace with a secure key
+app.secret_key = 'your-secret-key-here'
 
-# Configure Gemini API
 try:
     import google.generativeai as genai
-    # Replace with your actual key
-    GEMINI_API_KEY = "AIzaSyDsFr09dbeekpsPYxIWESlvE_QJaErVv1Y"
+    GEMINI_API_KEY = "your-api-key-goes-here"
     genai.configure(api_key=GEMINI_API_KEY)
     model = genai.GenerativeModel('gemini-1.5-flash')
 except ImportError as e:
